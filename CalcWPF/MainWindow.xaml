@@ -11,7 +11,7 @@
         <Grid HorizontalAlignment="Center" Height="329" VerticalAlignment="Center" Width="379" Background="#FF96C5DC">
             <TextBox x:Name="TxtResult" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="352" Height="73"/>
             <Button Content="7" HorizontalAlignment="Left" Margin="10,88,0,0" VerticalAlignment="Top" Height="43" Width="73" Click="Button_Click"/>
-            <Button Content="8" HorizontalAlignment="Left" Margin="92,88,0,0" VerticalAlignment="Top" Height="45" Width="78" Click="Button_Click"/>
+            <Button Content="8" HorizontalAlignment="Left" Margin="95,89,0,0" VerticalAlignment="Top" Height="45" Width="78" Click="Button_Click"/>
             <Button Content="4" HorizontalAlignment="Left" Margin="10,149,0,0" VerticalAlignment="Top" Height="44" Width="73" Click="Button_Click"/>
             <Button Content="5" HorizontalAlignment="Left" Margin="95,149,0,0" VerticalAlignment="Top" Height="44" Width="75" Click="Button_Click"/>
             <Button Content="6" HorizontalAlignment="Left" Margin="194,149,0,0" VerticalAlignment="Top" Height="44" Width="72" Click="Button_Click"/>
